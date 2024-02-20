@@ -14,7 +14,7 @@ const possuiPassagemComprada = true
 if (idadePassageiro >= 18)
 {
     //todas passagens que serão compradas por enquanto vai ser de amazonas
-console.log (`Compra realizada com sucesso, EMBAP AIR agradece a preferência,\n Tenha uma excelente viagem`);
+console.log (`Compra realizada com sucesso, EMBAP AIR agradece a preferência,\n Tenha uma excelente viagem!!!`);
 listDeDestinos.splice (3,1)
 console.log (listDeDestinos)
 }
